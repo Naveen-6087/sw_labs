@@ -2,10 +2,10 @@
 
 ## 📹 Project Demonstration
 
-[![Watch the video](https://img.youtube.com/vi/GJ6dOxLFbLU/0.jpg)](https://www.youtube.com/watch?v=GJ6dOxLFbLU)
+[![Watch the video](https://img.youtube.com/vi/EPBNMTGP6JI/0.jpg)](https://www.youtube.com/watch?v=EPBNMTGP6JI)
 
 
-[YouTube Video Link](https://www.youtube.com/watch?v=GJ6dOxLFbLU)
+[YouTube Video Link](https://www.youtube.com/watch?v=EPBNMTGP6JI)
 
 ## 📄 Project PPT
 
